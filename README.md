@@ -19,6 +19,7 @@ A simple and responsive **BMI (Body Mass Index) Calculator** web application tha
 * **HTML** – Structure of the app
 * **CSS** – Styling and layout
 * **JavaScript** – BMI calculation logic
+* **Bootstrap Icons – Icons for better UI and user experience
 
 ## 📐 BMI Formula Used
 
