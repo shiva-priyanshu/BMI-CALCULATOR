@@ -1,0 +1,5 @@
+/* Custom styles for result categories */
+.underweight { color: #007bff; }
+.normal { color: #28a745; }
+.overweight { color: #ffc107; }
+.obese { color: #dc3545; }
